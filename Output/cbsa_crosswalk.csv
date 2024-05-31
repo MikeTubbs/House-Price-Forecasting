@@ -1,0 +1,457 @@
+,index,CBSA_CODE,CBSA_NAME
+0,0,10140,Aberdeen WA Micropolitan Statistical Area
+1,631,10180,Abilene TX Metropolitan Statistical Area
+2,1202,10420,Akron OH Metropolitan Statistical Area
+3,1773,10500,Albany GA Metropolitan Statistical Area
+4,2356,10540,Albany OR Metropolitan Statistical Area
+5,2987,10580,Albany-Schenectady-Troy NY Metropolitan Statistical Area
+6,3581,10740,Albuquerque NM Metropolitan Statistical Area
+7,4188,10780,Alexandria LA Metropolitan Statistical Area
+8,4759,10900,Allentown-Bethlehem-Easton PA-NJ Metropolitan Statistical Area
+9,5342,11020,Altoona PA Metropolitan Statistical Area
+10,5925,11100,Amarillo TX Metropolitan Statistical Area
+11,6496,11180,Ames IA Metropolitan Statistical Area
+12,7067,11244,Anaheim-Santa Ana-Irvine CA Metropolitan Division
+13,7698,11260,Anchorage AK Metropolitan Statistical Area
+14,8329,11460,Ann Arbor MI Metropolitan Statistical Area
+15,8960,11500,Anniston-Oxford-Jacksonville AL Metropolitan Statistical Area
+16,9531,11540,Appleton WI Metropolitan Statistical Area
+17,10102,11700,Asheville NC Metropolitan Statistical Area
+18,10685,12020,Athens-Clarke County GA Metropolitan Statistical Area
+19,11268,12060,Atlanta-Sandy Springs-Roswell GA Metropolitan Statistical Area
+20,11851,12100,Atlantic City-Hammonton NJ Metropolitan Statistical Area
+21,12422,12220,Auburn-Opelika AL Metropolitan Statistical Area
+22,12993,12260,Augusta-Richmond County GA-SC Metropolitan Statistical Area
+23,13576,12420,Austin-Round Rock TX Metropolitan Statistical Area
+24,14147,12540,Bakersfield CA Metropolitan Statistical Area
+25,14778,12580,Baltimore-Columbia-Towson MD Metropolitan Statistical Area
+26,15409,12620,Bangor ME Metropolitan Statistical Area
+27,15980,12700,Barnstable Town MA Metropolitan Statistical Area
+28,16551,12780,Bartlesville OK Micropolitan Statistical Area
+29,17122,12940,Baton Rouge LA Metropolitan Statistical Area
+30,17693,12980,Battle Creek MI Metropolitan Statistical Area
+31,18324,13020,Bay City MI Metropolitan Statistical Area
+32,18955,13140,Beaumont-Port Arthur TX Metropolitan Statistical Area
+33,19526,13220,Beckley WV Metropolitan Statistical Area
+34,20109,13380,Bellingham WA Metropolitan Statistical Area
+35,20740,13460,Bend-Redmond OR Metropolitan Statistical Area
+36,21371,13740,Billings MT Metropolitan Statistical Area
+37,21978,13780,Binghamton NY Metropolitan Statistical Area
+38,22572,13820,Birmingham-Hoover AL Metropolitan Statistical Area
+39,23143,13900,Bismarck ND Metropolitan Statistical Area
+40,23714,13980,Blacksburg-Christiansburg-Radford VA Metropolitan Statistical Area
+41,24345,14010,Bloomington IL Metropolitan Statistical Area
+42,24916,14020,Bloomington IN Metropolitan Statistical Area
+43,25487,14100,Bloomsburg-Berwick PA Metropolitan Statistical Area
+44,26070,14260,Boise City ID Metropolitan Statistical Area
+45,26677,14454,Boston MA Metropolitan Division
+46,27248,14460,Boston-Cambridge-Newton MA-NH Metropolitan Statistical Area
+47,27819,14500,Boulder CO Metropolitan Statistical Area
+48,28426,14540,Bowling Green KY Metropolitan Statistical Area
+49,28997,14720,Breckenridge CO Micropolitan Statistical Area
+50,29604,14740,Bremerton-Silverdale WA Metropolitan Statistical Area
+51,30235,14860,Bridgeport-Stamford-Norwalk CT Metropolitan Statistical Area
+52,30806,15180,Brownsville-Harlingen TX Metropolitan Statistical Area
+53,31377,15260,Brunswick GA Metropolitan Statistical Area
+54,31960,15380,Buffalo-Cheektowaga-Niagara Falls NY Metropolitan Statistical Area
+55,32554,15500,Burlington NC Metropolitan Statistical Area
+56,33137,15540,Burlington-South Burlington VT Metropolitan Statistical Area
+57,33708,15680,California-Lexington Park MD Metropolitan Statistical Area
+58,34339,15764,Cambridge-Newton-Framingham MA Metropolitan Division
+59,34910,15804,Camden NJ Metropolitan Division
+60,35493,15940,Canton-Massillon OH Metropolitan Statistical Area
+61,36064,15980,Cape Coral-Fort Myers FL Metropolitan Statistical Area
+62,36647,16020,Cape Girardeau MO-IL Metropolitan Statistical Area
+63,37218,16060,Carbondale-Marion IL Metropolitan Statistical Area
+64,37789,16180,Carson City NV Metropolitan Statistical Area
+65,38396,16220,Casper WY Metropolitan Statistical Area
+66,39003,16300,Cedar Rapids IA Metropolitan Statistical Area
+67,39574,16540,Chambersburg-Waynesboro PA Metropolitan Statistical Area
+68,40157,16580,Champaign-Urbana IL Metropolitan Statistical Area
+69,40728,16620,Charleston WV Metropolitan Statistical Area
+70,41311,16700,Charleston-North Charleston SC Metropolitan Statistical Area
+71,41894,16740,Charlotte-Concord-Gastonia NC-SC Metropolitan Statistical Area
+72,42477,16820,Charlottesville VA Metropolitan Statistical Area
+73,43108,16860,Chattanooga TN-GA Metropolitan Statistical Area
+74,43679,16940,Cheyenne WY Metropolitan Statistical Area
+75,44286,16974,Chicago-Naperville-Arlington Heights IL Metropolitan Division
+76,44857,16980,Chicago-Naperville-Elgin IL-IN-WI Metropolitan Statistical Area
+77,45428,17020,Chico CA Metropolitan Statistical Area
+78,46059,17140,Cincinnati OH-KY-IN Metropolitan Statistical Area
+79,46630,17300,Clarksville TN-KY Metropolitan Statistical Area
+80,47201,17340,Clearlake CA Micropolitan Statistical Area
+81,47832,17420,Cleveland TN Metropolitan Statistical Area
+82,48403,17460,Cleveland-Elyria OH Metropolitan Statistical Area
+83,48974,17660,Coeur d'Alene ID Metropolitan Statistical Area
+84,49581,17780,College Station-Bryan TX Metropolitan Statistical Area
+85,50152,17820,Colorado Springs CO Metropolitan Statistical Area
+86,50759,17860,Columbia MO Metropolitan Statistical Area
+87,51330,17900,Columbia SC Metropolitan Statistical Area
+88,51913,17980,Columbus GA-AL Metropolitan Statistical Area
+89,52496,18020,Columbus IN Metropolitan Statistical Area
+90,53067,18140,Columbus OH Metropolitan Statistical Area
+91,53638,18300,Coos Bay OR Micropolitan Statistical Area
+92,54269,18580,Corpus Christi TX Metropolitan Statistical Area
+93,54840,18700,Corvallis OR Metropolitan Statistical Area
+94,55471,18880,Crestview-Fort Walton Beach-Destin FL Metropolitan Statistical Area
+95,56054,18900,Crossville TN Micropolitan Statistical Area
+96,56625,19060,Cumberland MD-WV Metropolitan Statistical Area
+97,57256,19100,Dallas-Fort Worth-Arlington TX Metropolitan Statistical Area
+98,57827,19124,Dallas-Plano-Irving TX Metropolitan Division
+99,58398,19140,Dalton GA Metropolitan Statistical Area
+100,58981,19180,Danville IL Metropolitan Statistical Area
+101,59552,19300,Daphne-Fairhope-Foley AL Metropolitan Statistical Area
+102,60123,19340,Davenport-Moline-Rock Island IA-IL Metropolitan Statistical Area
+103,60694,19380,Dayton OH Metropolitan Statistical Area
+104,61265,19460,Decatur AL Metropolitan Statistical Area
+105,61836,19500,Decatur IL Metropolitan Statistical Area
+106,62407,19660,Deltona-Daytona Beach-Ormond Beach FL Metropolitan Statistical Area
+107,63038,19740,Denver-Aurora-Lakewood CO Metropolitan Statistical Area
+108,63645,19780,Des Moines-West Des Moines IA Metropolitan Statistical Area
+109,64216,19804,Detroit-Dearborn-Livonia MI Metropolitan Division
+110,64847,19820,Detroit-Warren-Dearborn MI Metropolitan Statistical Area
+111,65478,20020,Dothan AL Metropolitan Statistical Area
+112,66049,20100,Dover DE Metropolitan Statistical Area
+113,66632,20220,Dubuque IA Metropolitan Statistical Area
+114,67203,20260,Duluth MN-WI Metropolitan Statistical Area
+115,67774,20500,Durham-Chapel Hill NC Metropolitan Statistical Area
+116,68357,20524,Dutchess County-Putnam County NY Metropolitan Division
+117,68952,20660,Easton MD Micropolitan Statistical Area
+118,69583,20700,East Stroudsburg PA Metropolitan Statistical Area
+119,70166,20740,Eau Claire WI Metropolitan Statistical Area
+120,70737,20780,Edwards CO Micropolitan Statistical Area
+121,71344,20940,El Centro CA Metropolitan Statistical Area
+122,71975,20994,Elgin IL Metropolitan Division
+123,72546,21060,Elizabethtown-Fort Knox KY Metropolitan Statistical Area
+124,73117,21140,Elkhart-Goshen IN Metropolitan Statistical Area
+125,73688,21220,Elko NV Micropolitan Statistical Area
+126,74295,21300,Elmira NY Metropolitan Statistical Area
+127,74889,21340,El Paso TX Metropolitan Statistical Area
+128,75460,21420,Enid OK Metropolitan Statistical Area
+129,76031,21500,Erie PA Metropolitan Statistical Area
+130,76614,21660,Eugene OR Metropolitan Statistical Area
+131,77245,21700,Eureka-Arcata-Fortuna CA Micropolitan Statistical Area
+132,77876,21780,Evansville IN-KY Metropolitan Statistical Area
+133,78447,21820,Fairbanks AK Metropolitan Statistical Area
+134,79078,22020,Fargo ND-MN Metropolitan Statistical Area
+135,79649,22060,Faribault-Northfield MN Micropolitan Statistical Area
+136,80220,22140,Farmington NM Metropolitan Statistical Area
+137,80827,22180,Fayetteville NC Metropolitan Statistical Area
+138,81410,22220,Fayetteville-Springdale-Rogers AR-MO Metropolitan Statistical Area
+139,81981,22300,Findlay OH Micropolitan Statistical Area
+140,82552,22380,Flagstaff AZ Metropolitan Statistical Area
+141,83159,22420,Flint MI Metropolitan Statistical Area
+142,83790,22500,Florence SC Metropolitan Statistical Area
+143,84373,22520,Florence-Muscle Shoals AL Metropolitan Statistical Area
+144,84944,22540,Fond du Lac WI Metropolitan Statistical Area
+145,85515,22660,Fort Collins CO Metropolitan Statistical Area
+146,86122,22744,Fort Lauderdale-Pompano Beach-Deerfield Beach FL Metropolitan Division
+147,86753,22900,Fort Smith AR-OK Metropolitan Statistical Area
+148,87324,23060,Fort Wayne IN Metropolitan Statistical Area
+149,87895,23104,Fort Worth-Arlington TX Metropolitan Division
+150,88466,23420,Fresno CA Metropolitan Statistical Area
+151,89097,23460,Gadsden AL Metropolitan Statistical Area
+152,89668,23540,Gainesville FL Metropolitan Statistical Area
+153,90251,23580,Gainesville GA Metropolitan Statistical Area
+154,90834,23820,Gardnerville Ranchos NV Micropolitan Statistical Area
+155,91441,23844,Gary IN Metropolitan Division
+156,92012,23900,Gettysburg PA Metropolitan Statistical Area
+157,92595,24020,Glens Falls NY Metropolitan Statistical Area
+158,93189,24060,Glenwood Springs CO Micropolitan Statistical Area
+159,93796,24140,Goldsboro NC Metropolitan Statistical Area
+160,94379,24220,Grand Forks ND-MN Metropolitan Statistical Area
+161,94950,24260,Grand Island NE Metropolitan Statistical Area
+162,95521,24300,Grand Junction CO Metropolitan Statistical Area
+163,96128,24340,Grand Rapids-Wyoming MI Metropolitan Statistical Area
+164,96759,24420,Grants Pass OR Metropolitan Statistical Area
+165,97390,24500,Great Falls MT Metropolitan Statistical Area
+166,97997,24540,Greeley CO Metropolitan Statistical Area
+167,98604,24580,Green Bay WI Metropolitan Statistical Area
+168,99175,24640,Greenfield Town MA Micropolitan Statistical Area
+169,99746,24660,Greensboro-High Point NC Metropolitan Statistical Area
+170,100329,24780,Greenville NC Metropolitan Statistical Area
+171,100912,24860,Greenville-Anderson-Mauldin SC Metropolitan Statistical Area
+172,101495,25060,Gulfport-Biloxi-Pascagoula MS Metropolitan Statistical Area
+173,102066,25180,Hagerstown-Martinsburg MD-WV Metropolitan Statistical Area
+174,102697,25220,Hammond LA Metropolitan Statistical Area
+175,103268,25260,Hanford-Corcoran CA Metropolitan Statistical Area
+176,103899,25420,Harrisburg-Carlisle PA Metropolitan Statistical Area
+177,104482,25500,Harrisonburg VA Metropolitan Statistical Area
+178,105113,25540,Hartford-West Hartford-East Hartford CT Metropolitan Statistical Area
+179,105684,25620,Hattiesburg MS Metropolitan Statistical Area
+180,106255,25860,Hickory-Lenoir-Morganton NC Metropolitan Statistical Area
+181,106838,25940,Hilton Head Island-Bluffton-Beaufort SC Metropolitan Statistical Area
+182,107421,25980,Hinesville GA Metropolitan Statistical Area
+183,108004,26140,Homosassa Springs FL Metropolitan Statistical Area
+184,108587,26300,Hot Springs AR Metropolitan Statistical Area
+185,109158,26380,Houma-Thibodaux LA Metropolitan Statistical Area
+186,109729,26420,Houston-The Woodlands-Sugar Land TX Metropolitan Statistical Area
+187,110300,26580,Huntington-Ashland WV-KY-OH Metropolitan Statistical Area
+188,110883,26620,Huntsville AL Metropolitan Statistical Area
+189,111454,26820,Idaho Falls ID Metropolitan Statistical Area
+190,112061,26900,Indianapolis-Carmel-Anderson IN Metropolitan Statistical Area
+191,112632,26980,Iowa City IA Metropolitan Statistical Area
+192,113203,27060,Ithaca NY Metropolitan Statistical Area
+193,113797,27100,Jackson MI Metropolitan Statistical Area
+194,114428,27140,Jackson MS Metropolitan Statistical Area
+195,114999,27180,Jackson TN Metropolitan Statistical Area
+196,115570,27260,Jacksonville FL Metropolitan Statistical Area
+197,116153,27340,Jacksonville NC Metropolitan Statistical Area
+198,116736,27460,Jamestown-Dunkirk-Fredonia NY Micropolitan Statistical Area
+199,117330,27500,Janesville-Beloit WI Metropolitan Statistical Area
+200,117901,27620,Jefferson City MO Metropolitan Statistical Area
+201,118472,27740,Johnson City TN Metropolitan Statistical Area
+202,119043,27780,Johnstown PA Metropolitan Statistical Area
+203,119626,27860,Jonesboro AR Metropolitan Statistical Area
+204,120197,27900,Joplin MO Metropolitan Statistical Area
+205,120768,27980,Kahului-Wailuku-Lahaina HI Metropolitan Statistical Area
+206,121399,28020,Kalamazoo-Portage MI Metropolitan Statistical Area
+207,122030,28100,Kankakee IL Metropolitan Statistical Area
+208,122601,28140,Kansas City MO-KS Metropolitan Statistical Area
+209,123172,28420,Kennewick-Richland WA Metropolitan Statistical Area
+210,123803,28580,Key West FL Micropolitan Statistical Area
+211,124386,28620,Kill Devil Hills NC Micropolitan Statistical Area
+212,124969,28660,Killeen-Temple TX Metropolitan Statistical Area
+213,125540,28700,Kingsport-Bristol-Bristol TN-VA Metropolitan Statistical Area
+214,126111,28740,Kingston NY Metropolitan Statistical Area
+215,126705,28900,Klamath Falls OR Micropolitan Statistical Area
+216,127336,28940,Knoxville TN Metropolitan Statistical Area
+217,127907,29020,Kokomo IN Metropolitan Statistical Area
+218,128478,29100,La Crosse-Onalaska WI-MN Metropolitan Statistical Area
+219,129049,29180,Lafayette LA Metropolitan Statistical Area
+220,129620,29200,Lafayette-West Lafayette IN Metropolitan Statistical Area
+221,130191,29340,Lake Charles LA Metropolitan Statistical Area
+222,130762,29404,Lake County-Kenosha County IL-WI Metropolitan Division
+223,131333,29420,Lake Havasu City-Kingman AZ Metropolitan Statistical Area
+224,131940,29460,Lakeland-Winter Haven FL Metropolitan Statistical Area
+225,132523,29540,Lancaster PA Metropolitan Statistical Area
+226,133106,29620,Lansing-East Lansing MI Metropolitan Statistical Area
+227,133737,29700,Laredo TX Metropolitan Statistical Area
+228,134308,29740,Las Cruces NM Metropolitan Statistical Area
+229,134915,29820,Las Vegas-Henderson-Paradise NV Metropolitan Statistical Area
+230,135522,29940,Lawrence KS Metropolitan Statistical Area
+231,136093,30020,Lawton OK Metropolitan Statistical Area
+232,136664,30140,Lebanon PA Metropolitan Statistical Area
+233,137247,30300,Lewiston ID-WA Metropolitan Statistical Area
+234,137854,30340,Lewiston-Auburn ME Metropolitan Statistical Area
+235,138425,30460,Lexington-Fayette KY Metropolitan Statistical Area
+236,138996,30620,Lima OH Metropolitan Statistical Area
+237,139567,30700,Lincoln NE Metropolitan Statistical Area
+238,140138,30780,Little Rock-North Little Rock-Conway AR Metropolitan Statistical Area
+239,140709,30860,Logan UT-ID Metropolitan Statistical Area
+240,141316,30980,Longview TX Metropolitan Statistical Area
+241,141887,31020,Longview WA Metropolitan Statistical Area
+242,142518,31080,Los Angeles-Long Beach-Anaheim CA Metropolitan Statistical Area
+243,143149,31084,Los Angeles-Long Beach-Glendale CA Metropolitan Division
+244,143780,31140,Louisville/Jefferson County KY-IN Metropolitan Statistical Area
+245,144351,31180,Lubbock TX Metropolitan Statistical Area
+246,144922,31340,Lynchburg VA Metropolitan Statistical Area
+247,145553,31420,Macon-Bibb County GA Metropolitan Statistical Area
+248,146136,31460,Madera CA Metropolitan Statistical Area
+249,146767,31540,Madison WI Metropolitan Statistical Area
+250,147338,31580,Madisonville KY Micropolitan Statistical Area
+251,147909,31700,Manchester-Nashua NH Metropolitan Statistical Area
+252,148480,31740,Manhattan KS Metropolitan Statistical Area
+253,149051,31860,Mankato-North Mankato MN Metropolitan Statistical Area
+254,149622,31900,Mansfield OH Metropolitan Statistical Area
+255,150193,32580,McAllen-Edinburg-Mission TX Metropolitan Statistical Area
+256,150764,32780,Medford OR Metropolitan Statistical Area
+257,151395,32820,Memphis TN-MS-AR Metropolitan Statistical Area
+258,151966,32900,Merced CA Metropolitan Statistical Area
+259,152597,33100,Miami-Fort Lauderdale-West Palm Beach FL Metropolitan Statistical Area
+260,153216,33124,Miami-Miami Beach-Kendall FL Metropolitan Division
+261,153835,33140,Michigan City-La Porte IN Metropolitan Statistical Area
+262,154406,33220,Midland MI Metropolitan Statistical Area
+263,155037,33260,Midland TX Metropolitan Statistical Area
+264,155608,33340,Milwaukee-Waukesha-West Allis WI Metropolitan Statistical Area
+265,156179,33460,Minneapolis-St. Paul-Bloomington MN-WI Metropolitan Statistical Area
+266,156750,33540,Missoula MT Metropolitan Statistical Area
+267,157357,33660,Mobile AL Metropolitan Statistical Area
+268,157928,33700,Modesto CA Metropolitan Statistical Area
+269,158559,33740,Monroe LA Metropolitan Statistical Area
+270,159130,33780,Monroe MI Metropolitan Statistical Area
+271,159761,33860,Montgomery AL Metropolitan Statistical Area
+272,160332,33874,Montgomery County-Bucks County-Chester County PA Metropolitan Division
+273,160915,34060,Morgantown WV Metropolitan Statistical Area
+274,161498,34100,Morristown TN Metropolitan Statistical Area
+275,162069,34180,Moses Lake WA Micropolitan Statistical Area
+276,162700,34580,Mount Vernon-Anacortes WA Metropolitan Statistical Area
+277,163331,34620,Muncie IN Metropolitan Statistical Area
+278,163902,34740,Muskegon MI Metropolitan Statistical Area
+279,164533,34780,Muskogee OK Micropolitan Statistical Area
+280,165104,34820,Myrtle Beach-Conway-North Myrtle Beach SC-NC Metropolitan Statistical Area
+281,165687,34900,Napa CA Metropolitan Statistical Area
+282,166318,34940,Naples-Immokalee-Marco Island FL Metropolitan Statistical Area
+283,166901,34980,Nashville-Davidson--Murfreesboro--Franklin TN Metropolitan Statistical Area
+284,167472,35004,Nassau County-Suffolk County NY Metropolitan Division
+285,168067,35084,Newark NJ-PA Metropolitan Division
+286,168662,35100,New Bern NC Metropolitan Statistical Area
+287,169245,35300,New Haven-Milford CT Metropolitan Statistical Area
+288,169816,35380,New Orleans-Metairie LA Metropolitan Statistical Area
+289,170387,35420,New Philadelphia-Dover OH Micropolitan Statistical Area
+290,170958,35440,Newport OR Micropolitan Statistical Area
+291,171589,35614,New York-Jersey City-White Plains NY-NJ Metropolitan Division
+292,172184,35620,New York-Newark-Jersey City NY-NJ-PA Metropolitan Statistical Area
+293,172779,35660,Niles-Benton Harbor MI Metropolitan Statistical Area
+294,173410,35840,North Port-Sarasota-Bradenton FL Metropolitan Statistical Area
+295,173993,35980,Norwich-New London CT Metropolitan Statistical Area
+296,174564,36020,Oak Harbor WA Micropolitan Statistical Area
+297,175195,36084,Oakland-Hayward-Berkeley CA Metropolitan Division
+298,175826,36100,Ocala FL Metropolitan Statistical Area
+299,176409,36140,Ocean City NJ Metropolitan Statistical Area
+300,176980,36220,Odessa TX Metropolitan Statistical Area
+301,177551,36260,Ogden-Clearfield UT Metropolitan Statistical Area
+302,178158,36380,Okeechobee FL Micropolitan Statistical Area
+303,178741,36420,Oklahoma City OK Metropolitan Statistical Area
+304,179312,36500,Olympia-Tumwater WA Metropolitan Statistical Area
+305,179943,36540,Omaha-Council Bluffs NE-IA Metropolitan Statistical Area
+306,180514,36740,Orlando-Kissimmee-Sanford FL Metropolitan Statistical Area
+307,181097,36780,Oshkosh-Neenah WI Metropolitan Statistical Area
+308,181668,36860,Ottawa-Peru IL Micropolitan Statistical Area
+309,182239,36980,Owensboro KY Metropolitan Statistical Area
+310,182810,37100,Oxnard-Thousand Oaks-Ventura CA Metropolitan Statistical Area
+311,183441,37260,Palatka FL Micropolitan Statistical Area
+312,184024,37340,Palm Bay-Melbourne-Titusville FL Metropolitan Statistical Area
+313,184607,37460,Panama City FL Metropolitan Statistical Area
+314,185190,37620,Parkersburg-Vienna WV Metropolitan Statistical Area
+315,185773,37740,Payson AZ Micropolitan Statistical Area
+316,186380,37860,Pensacola-Ferry Pass-Brent FL Metropolitan Statistical Area
+317,186963,37900,Peoria IL Metropolitan Statistical Area
+318,187534,37964,Philadelphia PA Metropolitan Division
+319,188117,37980,Philadelphia-Camden-Wilmington PA-NJ-DE-MD Metropolitan Statistical Area
+320,188700,38060,Phoenix-Mesa-Scottsdale AZ Metropolitan Statistical Area
+321,189307,38220,Pine Bluff AR Metropolitan Statistical Area
+322,189878,38300,Pittsburgh PA Metropolitan Statistical Area
+323,190485,38340,Pittsfield MA Metropolitan Statistical Area
+324,191056,38460,Plattsburgh NY Micropolitan Statistical Area
+325,191650,38540,Pocatello ID Metropolitan Statistical Area
+326,192257,38860,Portland-South Portland ME Metropolitan Statistical Area
+327,192828,38900,Portland-Vancouver-Hillsboro OR-WA Metropolitan Statistical Area
+328,193459,38940,Port St. Lucie FL Metropolitan Statistical Area
+329,194042,39140,Prescott AZ Metropolitan Statistical Area
+330,194649,39300,Providence-Warwick RI-MA Metropolitan Statistical Area
+331,195220,39340,Provo-Orem UT Metropolitan Statistical Area
+332,195827,39380,Pueblo CO Metropolitan Statistical Area
+333,196434,39460,Punta Gorda FL Metropolitan Statistical Area
+334,197017,39540,Racine WI Metropolitan Statistical Area
+335,197588,39580,Raleigh NC Metropolitan Statistical Area
+336,198171,39660,Rapid City SD Metropolitan Statistical Area
+337,198742,39740,Reading PA Metropolitan Statistical Area
+338,199325,39780,Red Bluff CA Micropolitan Statistical Area
+339,199956,39820,Redding CA Metropolitan Statistical Area
+340,200587,39900,Reno NV Metropolitan Statistical Area
+341,201194,40060,Richmond VA Metropolitan Statistical Area
+342,201825,40140,Riverside-San Bernardino-Ontario CA Metropolitan Statistical Area
+343,202456,40220,Roanoke VA Metropolitan Statistical Area
+344,203087,40340,Rochester MN Metropolitan Statistical Area
+345,203658,40380,Rochester NY Metropolitan Statistical Area
+346,204252,40420,Rockford IL Metropolitan Statistical Area
+347,204823,40484,Rockingham County-Strafford County NH Metropolitan Division
+348,205394,40580,Rocky Mount NC Metropolitan Statistical Area
+349,205977,40660,Rome GA Metropolitan Statistical Area
+350,206560,40900,Sacramento--Roseville--Arden-Arcade CA Metropolitan Statistical Area
+351,207191,40980,Saginaw MI Metropolitan Statistical Area
+352,207822,41060,St. Cloud MN Metropolitan Statistical Area
+353,208393,41100,St. George UT Metropolitan Statistical Area
+354,209000,41140,St. Joseph MO-KS Metropolitan Statistical Area
+355,209571,41180,St. Louis MO-IL Metropolitan Statistical Area
+356,210142,41420,Salem OR Metropolitan Statistical Area
+357,210773,41500,Salinas CA Metropolitan Statistical Area
+358,211404,41540,Salisbury MD-DE Metropolitan Statistical Area
+359,211987,41620,Salt Lake City UT Metropolitan Statistical Area
+360,212594,41660,San Angelo TX Metropolitan Statistical Area
+361,213165,41700,San Antonio-New Braunfels TX Metropolitan Statistical Area
+362,213736,41740,San Diego-Carlsbad CA Metropolitan Statistical Area
+363,214367,41780,Sandusky OH Micropolitan Statistical Area
+364,214938,41860,San Francisco-Oakland-Hayward CA Metropolitan Statistical Area
+365,215569,41884,San Francisco-Redwood City-South San Francisco CA Metropolitan Division
+366,216200,41940,San Jose-Sunnyvale-Santa Clara CA Metropolitan Statistical Area
+367,216831,42020,San Luis Obispo-Paso Robles-Arroyo Grande CA Metropolitan Statistical Area
+368,217462,42034,San Rafael CA Metropolitan Division
+369,218093,42100,Santa Cruz-Watsonville CA Metropolitan Statistical Area
+370,218724,42140,Santa Fe NM Metropolitan Statistical Area
+371,219331,42200,Santa Maria-Santa Barbara CA Metropolitan Statistical Area
+372,219962,42220,Santa Rosa CA Metropolitan Statistical Area
+373,220593,42340,Savannah GA Metropolitan Statistical Area
+374,221176,42420,Scottsbluff NE Micropolitan Statistical Area
+375,221747,42540,Scranton--Wilkes-Barre--Hazleton PA Metropolitan Statistical Area
+376,222330,42644,Seattle-Bellevue-Everett WA Metropolitan Division
+377,222961,42660,Seattle-Tacoma-Bellevue WA Metropolitan Statistical Area
+378,223592,42680,Sebastian-Vero Beach FL Metropolitan Statistical Area
+379,224175,42700,Sebring FL Metropolitan Statistical Area
+380,224758,43060,Shawnee OK Micropolitan Statistical Area
+381,225329,43100,Sheboygan WI Metropolitan Statistical Area
+382,225900,43300,Sherman-Denison TX Metropolitan Statistical Area
+383,226471,43320,Show Low AZ Micropolitan Statistical Area
+384,227078,43340,Shreveport-Bossier City LA Metropolitan Statistical Area
+385,227649,43420,Sierra Vista-Douglas AZ Metropolitan Statistical Area
+386,228256,43524,Silver Spring-Frederick-Rockville MD Metropolitan Division
+387,228887,43580,Sioux City IA-NE-SD Metropolitan Statistical Area
+388,229458,43620,Sioux Falls SD Metropolitan Statistical Area
+389,230029,43760,Sonora CA Micropolitan Statistical Area
+390,230660,43780,South Bend-Mishawaka IN-MI Metropolitan Statistical Area
+391,231231,43900,Spartanburg SC Metropolitan Statistical Area
+392,231814,44060,Spokane-Spokane Valley WA Metropolitan Statistical Area
+393,232445,44100,Springfield IL Metropolitan Statistical Area
+394,233016,44140,Springfield MA Metropolitan Statistical Area
+395,233587,44180,Springfield MO Metropolitan Statistical Area
+396,234158,44220,Springfield OH Metropolitan Statistical Area
+397,234729,44300,State College PA Metropolitan Statistical Area
+398,235312,44420,Staunton-Waynesboro VA Metropolitan Statistical Area
+399,235943,44660,Stillwater OK Micropolitan Statistical Area
+400,236514,44700,Stockton-Lodi CA Metropolitan Statistical Area
+401,237145,44940,Sumter SC Metropolitan Statistical Area
+402,237728,45060,Syracuse NY Metropolitan Statistical Area
+403,238322,45104,Tacoma-Lakewood WA Metropolitan Division
+404,238953,45220,Tallahassee FL Metropolitan Statistical Area
+405,239536,45300,Tampa-St. Petersburg-Clearwater FL Metropolitan Statistical Area
+406,240119,45460,Terre Haute IN Metropolitan Statistical Area
+407,240690,45500,Texarkana TX-AR Metropolitan Statistical Area
+408,241261,45540,The Villages FL Metropolitan Statistical Area
+409,241844,45780,Toledo OH Metropolitan Statistical Area
+410,242415,45820,Topeka KS Metropolitan Statistical Area
+411,242986,45860,Torrington CT Micropolitan Statistical Area
+412,243557,45940,Trenton NJ Metropolitan Statistical Area
+413,244128,46020,Truckee-Grass Valley CA Micropolitan Statistical Area
+414,244759,46060,Tucson AZ Metropolitan Statistical Area
+415,245366,46100,Tullahoma-Manchester TN Micropolitan Statistical Area
+416,245937,46140,Tulsa OK Metropolitan Statistical Area
+417,246508,46220,Tuscaloosa AL Metropolitan Statistical Area
+418,247079,46300,Twin Falls ID Metropolitan Statistical Area
+419,247686,46340,Tyler TX Metropolitan Statistical Area
+420,248257,46380,Ukiah CA Micropolitan Statistical Area
+421,248888,46520,Urban Honolulu HI Metropolitan Statistical Area
+422,249519,46540,Utica-Rome NY Metropolitan Statistical Area
+423,250113,46660,Valdosta GA Metropolitan Statistical Area
+424,250696,46700,Vallejo-Fairfield CA Metropolitan Statistical Area
+425,251327,47020,Victoria TX Metropolitan Statistical Area
+426,251898,47220,Vineland-Bridgeton NJ Metropolitan Statistical Area
+427,252469,47260,Virginia Beach-Norfolk-Newport News VA-NC Metropolitan Statistical Area
+428,253100,47300,Visalia-Porterville CA Metropolitan Statistical Area
+429,253731,47380,Waco TX Metropolitan Statistical Area
+430,254302,47460,Walla Walla WA Metropolitan Statistical Area
+431,254933,47580,Warner Robins GA Metropolitan Statistical Area
+432,255516,47664,Warren-Troy-Farmington Hills MI Metropolitan Division
+433,256147,47894,Washington-Arlington-Alexandria DC-VA-MD-WV Metropolitan Division
+434,256778,47900,Washington-Arlington-Alexandria DC-VA-MD-WV Metropolitan Statistical Area
+435,257409,47940,Waterloo-Cedar Falls IA Metropolitan Statistical Area
+436,257980,48060,Watertown-Fort Drum NY Metropolitan Statistical Area
+437,258574,48140,Wausau WI Metropolitan Statistical Area
+438,259145,48260,Weirton-Steubenville WV-OH Metropolitan Statistical Area
+439,259716,48300,Wenatchee WA Metropolitan Statistical Area
+440,260347,48424,West Palm Beach-Boca Raton-Delray Beach FL Metropolitan Division
+441,260966,48540,Wheeling WV-OH Metropolitan Statistical Area
+442,261537,48620,Wichita KS Metropolitan Statistical Area
+443,262108,48660,Wichita Falls TX Metropolitan Statistical Area
+444,262679,48700,Williamsport PA Metropolitan Statistical Area
+445,263262,48864,Wilmington DE-MD-NJ Metropolitan Division
+446,263845,48900,Wilmington NC Metropolitan Statistical Area
+447,264428,49020,Winchester VA-WV Metropolitan Statistical Area
+448,265059,49180,Winston-Salem NC Metropolitan Statistical Area
+449,265642,49300,Wooster OH Micropolitan Statistical Area
+450,266213,49340,Worcester MA-CT Metropolitan Statistical Area
+451,266784,49420,Yakima WA Metropolitan Statistical Area
+452,267415,49620,York-Hanover PA Metropolitan Statistical Area
+453,267998,49660,Youngstown-Warren-Boardman OH-PA Metropolitan Statistical Area
+454,268569,49700,Yuba City CA Metropolitan Statistical Area
+455,269200,49740,Yuma AZ Metropolitan Statistical Area
